@@ -1,0 +1,8 @@
+var a = 5 * 'abc'
+
+var b = 5 + 7 * 2
+
+var c = a + 'sdf'
+
+var d = 'dsfds' + 'dfvd'
+rprint( 5 * 'afscvd' )
